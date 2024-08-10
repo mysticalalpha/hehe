@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table of Contents - Creative Pottery Shop</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+
+<body>
+    <header>
+        <h1>Table of Contents</h1>
+    </header>
+
+    <section>
+        <h2>Pottery Products and Prices</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Product Name</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Ferrari F8 Turbo</td>
+                    <td>$280,000</td>
+                </tr>
+                <tr>
+                    <td>Lamborghini Aventador</td>
+                    <td>$400,000</td>
+                </tr>
+                <tr>
+                    <td>porsche 911 Turbo</td>
+                    <td>$200,000</td>
+                </tr>
+                <tr>
+                    <td>aston martin DB11</td>
+                    <td>$250,000</td>
+                </tr>
+                <tr>
+                    <td>McLaren</td>
+                    <td>$300,000</td>
+                </tr>
+                <tr>
+                    <td>Bugatti Chiron</td>
+                    <td>$3,000,000</td>
+                </tr>
+                <tr>
+                    <td>Rolls-Royce Dawn</td>
+                    <td>$350,000</td>
+                </tr>
+                <tr>
+                    <td>Pagani Huayra</td>
+                    <td>$2,600,000</td>
+                </tr>
+                <tr>
+                    <td>Koenigsegg Koenigsegg-Agera-RS</td>
+                    <td>$2,500,000</td>
+                </tr>
+                <tr>
+                    <td>Lotus Evija</td>
+                    <td>$2,000,000</td>
+                </tr>
+            </tbody>
+        </table>
+        <a href="index.html">go back</a>
+    </section>
+</body>
+
+</html>
